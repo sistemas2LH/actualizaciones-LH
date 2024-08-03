@@ -1,1 +1,2 @@
 Nuevas actualizaciones
+Corrección "modificación ventas" --> cambio de razón social
