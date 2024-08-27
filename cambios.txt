@@ -1,2 +1,8 @@
 Nuevas actualizaciones
-Corrección "modificación ventas" --> cambio de razón social
+Corrección "Envio de facturas a correo"
+Corrección "Tiempo de entrega, por definie"
+Actualización "Nuevo DLL para cartas porte"
+Actualización "Nueva comlumna (clave) en salidas-kardex"
+Actualización "Costos-traslados"
+Actualización "CRUD-permiso de venta precio 5"
+Actualización "Vista busqueda cliente"
